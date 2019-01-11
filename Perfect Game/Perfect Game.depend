@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522419988 source:c:\users\Пользователь\google Диск\public\Информатика\perfectgame.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"MyFunctions.h"
+
+1522424335 c:\users\Пользователь\google Диск\public\Информатика\myfunctions.h
+
+1522424239 source:c:\users\Пользователь\google Диск\public\Информатика\myfunctions.c
+	"MyFunctions.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
